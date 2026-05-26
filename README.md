@@ -1,7 +1,5 @@
 # 🎵 Audra — *music you can feel*
 
-![WCAG](https://img.shields.io/badge/WCAG-2.1_AA-1D9E75?style=flat-square) ![HTML](https://img.shields.io/badge/Built_with-HTML_CSS_JS-D4537E?style=flat-square)
-
 ---
 
 Most music apps are built for people who can hear everything. However, hearing aids filter out specific sound frequency ranges and nobody had designed around that gap. Not streaming platforms. Not accessibility tools. Not even AI-powered solutions that claimed to help. Music taught me something: communication doesn't require a single channel. A melody can be felt, not just heard. Rhythm can be seen, not just counted. Emotion can be read in a color, not just a chord. The music is still playing, but ***something essential is missing.***
@@ -12,7 +10,7 @@ Audra was built to fill that gap, by creating a **parallel visual channel** that
 - **Emotion**
 - **Structure**
 
-> It started with one person who loves music. It was built for everyone who does.
+> It started with one person who loves music. It was built for everyone who does. *Designed for hearing-impaired listeners. Built for everyone.*
 
 ---
 
@@ -28,13 +26,13 @@ Audra was built to fill that gap, by creating a **parallel visual channel** that
 
 ---
 
-### How to use it
+### 📋 Instructions
 
 1. Click *"Load a song"* and choose any MP3 from your device or connect your Spotify account
-2. **Press play** - the waveform and rhythm grid activate immediately
-3. **Switch tabs** to explore the Emotion Map and tune your Hearing Profile
-4. **Toggle layers** to turn individual visual layers on or off in the Profile Tab
-5. **Save your profile** to save your frequency settings are remembered automatically between sessions
+2. Press play where the waveform and rhythm grid activate immediately
+3. Switch tabs to explore the Emotion Map and tune your Hearing Profile
+4. Toggle layers to turn individual visual layers on or off in the Profile Tab
+5. Save your profile to save your frequency settings are remembered automatically between sessions
 
 ---
 
@@ -76,7 +74,3 @@ This project grew from my research into the **frequency gaps between hearing aid
 ## 📄 License
 
 **MIT** — open source and free to use.
-
----
-
-*Designed for hearing-impaired listeners. Built for everyone.*
