@@ -24,7 +24,7 @@ Audra was built to fill that gap, by creating a **parallel visual channel** that
 
 ---
 
-### 📋 Instructions
+## 📋 Instructions
 
 1. Click *"Load a song"* and choose any MP3 from your device or connect your Spotify account
 2. Press play where the waveform and rhythm grid activate immediately
@@ -48,7 +48,7 @@ Audra is built to the **WCAG 2.1 AA standard** throughout:
 
 ---
 
-## 🛠 Tech stack
+## 🛠 Tech Stack
 
 ```
 HTML / CSS / JavaScript       — core structure and styling
