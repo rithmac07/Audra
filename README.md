@@ -32,20 +32,6 @@ Audra was built to fill that gap. Not by fixing the audio — but by creating a 
 
 ---
 
-## 🚀 Getting started
-
-**No install needed** — open it directly in your browser.
-
-```bash
-# Clone the repo
-git clone https://github.com/rithikamachani/Audra.git
-
-# Open in your browser
-open index.html
-```
-
-> ⚠️ Works best in **Chrome or Edge**. Microphone input requires browser permission when prompted.
-
 ### How to use it
 
 1. **Load a song** — click *"Load a song"* and choose any MP3 from your device
@@ -81,33 +67,6 @@ Beat detection                — rhythm grid synchronization
 localStorage                  — hearing profile persistence across sessions
 DM Sans + DM Mono             — accessible, legible typography
 ```
-
----
-
-## 🗺 Roadmap
-
-| Phase | Status | What's being built |
-|---|---|---|
-| **1 — Web app** | ✅ Complete | Audio engine, visualizer, lyrics, rhythm grid, profiles, splash, about page |
-| **2 — Full features** | 🔨 In progress | Real synced lyrics, Spotify search, visual sheet music, multi-profile |
-| **3 — React Native** | 📋 Planned | Mobile app — one codebase for iOS + Android |
-| **4 — Native build** | 📋 Planned | Haptic feedback, Spotify SDK, cloud profile sync |
-| **5 — App Store** | 📋 Planned | Public launch on iOS App Store + Google Play |
-| **6 — Pitch & grow** | 📋 Planned | Grants, hackathons, accessibility community launch |
-
----
-
-## 📁 Project structure
-
-```
-Audra/
-├── index.html        — entire app (single file, Phase 1)
-└── README.md         — you are here
-```
-
-> Phase 3+ will expand into a full React Native project structure with separate component files, screens, and an audio engine module.
-
----
 
 ## 🙋 Built by
 
