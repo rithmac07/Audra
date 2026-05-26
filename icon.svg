@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
   <rect width="512" height="512" rx="112" fill="#0F0D28"/>
   
-  <!-- Concentric rings - shifted up -->
-  <circle cx="256" cy="210" r="38" fill="none" stroke="#7F77DD" stroke-width="8" opacity="1"/>
-  <circle cx="256" cy="210" r="72" fill="none" stroke="#7F77DD" stroke-width="6" opacity="0.7"/>
-  <circle cx="256" cy="210" r="108" fill="none" stroke="#7F77DD" stroke-width="4" opacity="0.45"/>
-  <circle cx="256" cy="210" r="144" fill="none" stroke="#7F77DD" stroke-width="2.5" opacity="0.22"/>
+  <!-- Concentric rings - shifted higher -->
+  <circle cx="256" cy="185" r="38" fill="none" stroke="#7F77DD" stroke-width="8" opacity="1"/>
+  <circle cx="256" cy="185" r="72" fill="none" stroke="#7F77DD" stroke-width="6" opacity="0.7"/>
+  <circle cx="256" cy="185" r="108" fill="none" stroke="#7F77DD" stroke-width="4" opacity="0.45"/>
+  <circle cx="256" cy="185" r="144" fill="none" stroke="#7F77DD" stroke-width="2.5" opacity="0.22"/>
 
   <!-- Center dot -->
-  <circle cx="256" cy="210" r="18" fill="#7F77DD"/>
+  <circle cx="256" cy="185" r="18" fill="#7F77DD"/>
 
-  <!-- Wordmark - sits cleanly below rings -->
-  <text x="256" y="430" font-family="Georgia, serif" font-size="96" font-weight="600" fill="#EDE9E3" text-anchor="middle" letter-spacing="-3">audra</text>
+  <!-- Wordmark -->
+  <text x="256" y="445" font-family="Georgia, serif" font-size="96" font-weight="600" fill="#EDE9E3" text-anchor="middle" letter-spacing="-3">audra</text>
 </svg>
