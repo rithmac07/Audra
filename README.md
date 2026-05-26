@@ -20,22 +20,21 @@ Audra was built to fill that gap, by creating a **parallel visual channel** that
 
 | Layer | What it does | Who it's for |
 |---|---|---|
-| 🌊 **Frequency Landscape** | Real-time waveform that breathes with the music | Everyone — makes sound visible |
-| 🎨 **Emotion map** | Translates mood into color and shape | Users who want to *feel* a song before hearing it |
-| 💬 **Animated lyrics** | Words move with the weight of how they're sung | Hearing-impaired listeners following along |
-| 🔲 **Rhythm grid** | Bass, mid, high, treble mapped to a visual pulse | Users who experience music through rhythm |
-| 🎛 **Hearing profile** | Frequency sliders tuned to your hearing aid | Personalised to each listener's needs |
-| ⚡ **Screen flash alerts** | Subtle full-screen pulse on beat drops | Users who feel music physically |
+| 🌊 **Frequency Landscape** | Real-time waveform that breathes with the music | Everyone |
+| 🎨 **Emotion Map** | Translates mood into color and shape | Users who want to *feel* a song before hearing it |
+| 💬 **Animated Lyrics** | Words move with the weight of how they're sung | Hearing-impaired listeners following along |
+| 🔲 **Rhythm Grid** | Bass, mid, high, treble mapped to a visual pulse | Users who experience music through rhythm |
+| 🎛 **Hearing Profile** | Frequency sliders tuned to your hearing aid | Personalized to each listener's needs |
 
 ---
 
 ### How to use it
 
-1. **Load a song** — click *"Load a song"* and choose any MP3 from your device or connect your Spotify account
-2. **Press play** — the waveform and rhythm grid activate immediately
-3. **Switch tabs** — explore the Emotion map and tune your Hearing profile
-4. **Toggle layers** — turn individual visual layers on or off in the Profile tab
-5. **Save your profile** — frequency settings are remembered automatically between sessions
+1. Click *"Load a song"* and choose any MP3 from your device or connect your Spotify account
+2. **Press play** - the waveform and rhythm grid activate immediately
+3. **Switch tabs** to explore the Emotion Map and tune your Hearing Profile
+4. **Toggle layers** to turn individual visual layers on or off in the Profile Tab
+5. **Save your profile** to save your frequency settings are remembered automatically between sessions
 
 ---
 
