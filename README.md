@@ -4,7 +4,6 @@
 
 ---
 
-## Why Audra exists
 Most music apps are built for people who can hear everything. However, hearing aids filter out specific sound frequency ranges and nobody had designed around that gap. Not streaming platforms. Not accessibility tools. Not even AI-powered solutions that claimed to help. Music taught me something: communication doesn't require a single channel. A melody can be felt, not just heard. Rhythm can be seen, not just counted. Emotion can be read in a color, not just a chord. The music is still playing, but ***something essential is missing.***
 
 Audra was built to fill that gap, by creating a **parallel visual channel** that carries everything the sound carries:
@@ -12,7 +11,6 @@ Audra was built to fill that gap, by creating a **parallel visual channel** that
 - **Rhythm**
 - **Emotion**
 - **Structure**
-- **The feeling of a chorus building toward something**
 
 > It started with one person who loves music. It was built for everyone who does.
 
@@ -69,7 +67,8 @@ DM Sans + DM Mono             — accessible, legible typography
 
 ## 🙋 Built by
 
-**Rithika Machani** — Freshman [at] UIUC, majoring in Information Sciences and Data Science
+**Rithika Machani** 
+Freshman [at] UIUC, majoring in Information Sciences and Data Science
 
 This project grew from my research into the **frequency gaps between hearing aids and standard music apps**, and a personal drive to build technology that meets people where they are, dedeicated to my grandfather who has hearing aids. 
 
