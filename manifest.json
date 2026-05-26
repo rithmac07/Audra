@@ -1,0 +1,36 @@
+{
+  "name": "Audra — Music You Can Feel",
+  "short_name": "Audra",
+  "description": "Music accessibility tool that translates sound into visual experiences for hearing-impaired listeners.",
+  "start_url": "/Audra/",
+  "scope": "/Audra/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0C0A",
+  "theme_color": "#0D0C0A",
+  "categories": ["music", "accessibility", "health"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Audra Now Playing screen"
+    }
+  ]
+}
