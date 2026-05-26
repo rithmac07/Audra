@@ -42,7 +42,7 @@ Audra is built to the **WCAG 2.1 AA standard** throughout:
 - [x] Color contrast meets **AA requirements** in both dark and light mode
 - [x] _Font Scaling_ supported through Large Text toggle in Profile
 - [x] _Reduce Motion_ toggle for users sensitive to animation
-- [x] _Screen Flas_h toggle can be disabled for photosensitive users
+- [x] _Screen Flash_ toggle can be disabled for photosensitive users
 - [x] Designed for compatibility with **VoiceOver** and **TalkBack** screen readers
 
 ---
@@ -59,7 +59,7 @@ localStorage                  — hearing profile persistence across sessions
 DM Sans + DM Mono             — accessible, legible typography
 ```
 
-## 🧐 Built by
+## 👩🏻‍💻 Built by
 
 **Rithika Machani** 
 Freshman [at] UIUC, majoring in Information Sciences and Data Science
