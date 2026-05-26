@@ -1,19 +1,18 @@
-# 🎵 Audra — *Music You Can Feel*
+# 🎵 Audra — *music you can feel*
 
 ![WCAG](https://img.shields.io/badge/WCAG-2.1_AA-1D9E75?style=flat-square) ![HTML](https://img.shields.io/badge/Built_with-HTML_CSS_JS-D4537E?style=flat-square)
 
 ---
 
 ## Why Audra exists
+Most music apps are built for people who can hear everything. However, hearing aids filter out specific sound frequency ranges and nobody had designed around that gap. Not streaming platforms. Not accessibility tools. Not even AI-powered solutions that claimed to help. Music taught me something: communication doesn't require a single channel. A melody can be felt, not just heard. Rhythm can be seen, not just counted. Emotion can be read in a color, not just a chord. The music is still playing, but ***something essential is missing.***
 
-Most music apps are built for **people who can hear everything.** Hearing aids filter out specific frequency ranges — the shimmer of a cymbal, the brightness of a voice, the warmth of a high melody. Those frequencies don't reach the listener. The music is still playing, but ***something essential is missing.***
+Audra was built to fill that gap, by creating a **parallel visual channel** that carries everything the sound carries:
 
-Audra was built to fill that gap. Not by fixing the audio — but by creating a **parallel visual channel** that carries everything the sound carries:
-
-- 🌊 **Rhythm**
-- 🎨 **Emotion**
-- 📐 **Structure**
-- 💬 **The feeling of a chorus building toward something**
+- **Rhythm**
+- **Emotion**
+- **Structure**
+- **The feeling of a chorus building toward something**
 
 > It started with one person who loves music. It was built for everyone who does.
 
@@ -23,7 +22,7 @@ Audra was built to fill that gap. Not by fixing the audio — but by creating a 
 
 | Layer | What it does | Who it's for |
 |---|---|---|
-| 🌊 **Frequency landscape** | Real-time waveform that breathes with the music | Everyone — makes sound visible |
+| 🌊 **Frequency Landscape** | Real-time waveform that breathes with the music | Everyone — makes sound visible |
 | 🎨 **Emotion map** | Translates mood into color and shape | Users who want to *feel* a song before hearing it |
 | 💬 **Animated lyrics** | Words move with the weight of how they're sung | Hearing-impaired listeners following along |
 | 🔲 **Rhythm grid** | Bass, mid, high, treble mapped to a visual pulse | Users who experience music through rhythm |
@@ -34,7 +33,7 @@ Audra was built to fill that gap. Not by fixing the audio — but by creating a 
 
 ### How to use it
 
-1. **Load a song** — click *"Load a song"* and choose any MP3 from your device
+1. **Load a song** — click *"Load a song"* and choose any MP3 from your device or connect your Spotify account
 2. **Press play** — the waveform and rhythm grid activate immediately
 3. **Switch tabs** — explore the Emotion map and tune your Hearing profile
 4. **Toggle layers** — turn individual visual layers on or off in the Profile tab
@@ -70,11 +69,9 @@ DM Sans + DM Mono             — accessible, legible typography
 
 ## 🙋 Built by
 
-**Rithika Machani** — UX/UI designer and developer focused on accessible technology.
+**Rithika Machani** — Freshman [at] UIUC, majoring in Information Sciences and Data Science
 
-This project grew out of a *Harvard CS560 accessibility project*, research into the **frequency gaps between hearing aids and standard music apps**, and a personal drive to build technology that meets people where they are — not where it's convenient to design for.
-
-Multiple JavaScript iterations. WCAG 2.1 standards applied throughout. Tested with a real hearing-impaired listener whose feedback shaped every design decision.
+This project grew from my research into the **frequency gaps between hearing aids and standard music apps**, and a personal drive to build technology that meets people where they are, dedeicated to my grandfather who has hearing aids. 
 
 ---
 
