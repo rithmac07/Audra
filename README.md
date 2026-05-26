@@ -1,7 +1,5 @@
 # 🎵 Audra — *music you can feel*
 
----
-
 Most music apps are built for people who can hear everything. However, hearing aids filter out specific sound frequency ranges and nobody had designed around that gap. Not streaming platforms. Not accessibility tools. Not even AI-powered solutions that claimed to help. Music taught me something: communication doesn't require a single channel. A melody can be felt, not just heard. Rhythm can be seen, not just counted. Emotion can be read in a color, not just a chord. The music is still playing, but ***something essential is missing.***
 
 Audra was built to fill that gap, by creating a **parallel visual channel** that carries everything the sound carries:
